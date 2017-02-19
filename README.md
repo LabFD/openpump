@@ -1,3 +1,6 @@
+![Imagen bomba de jeringa]
+(https://github.com/LabFD/openpump/blob/master/bombajeringa.jpg)
+
 Adaptación local de la openpump a los materiales disponibles [BOM] (https://github.com/LabFD/openpump/blob/master/BOM%20local.txt) y [STL] (https://github.com/LabFD/openpump/blob/master/mechanical/stl-local.zip)
 
 # Openpump: the open source hardware syringe pump
