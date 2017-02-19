@@ -1,3 +1,5 @@
+Adaptación local de la openpump a los materiales disponibles [BOM] (https://github.com/LabFD/openpump/blob/master/BOM%20local.txt) y [STL] (https://github.com/LabFD/openpump/blob/master/mechanical/stl-local.zip)
+
 # Openpump: the open source hardware syringe pump
 
 [Openpump](http://www.openpump.org) is an open-source syringe pump that dispenses fluids over a set period of time. Syringe pumps are used to administer medication in hospitals, but also in laboratory environments performing chemical or biomedical research. Maybe you'd like to use syringe pump to extruding paste (e.g. chocolate) during 3D printing, or as part of a bioprinter when printing with biological materials?
