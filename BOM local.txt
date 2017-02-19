@@ -1,0 +1,17 @@
+Descripción	Cantidad	Traducción	Reemplazo
+Motor End	1	Lado motor	
+Carriage	1	Carro	
+Plunger Holder base and tab	1	Soporte de piston y lengüeta	
+Body Holder	2	Soporte del tubo	
+Idler End	1	Lado guia	
+NEMA17 motor	1	Motor	
+5mm x 5mm shaft coupling	1	Acople de eje 5mmx5mm	
+625z ball bearing	2	Ruleman 625z	Ruleman 624
+LM6UU linear bearing	2	Ruleman lineal LM6UU	Ruleman lineal LM8UU
+M3 x 10mm socket head cap screw	6	tornillo de cabeza hueca M3x10mm	M4 x 10mm
+M3 x 20mm socket head cap screws	4	tornillo de cabeza hueca M3x20mm 	M4 x 16mm
+M3 x 40mm socket head cap screws	4	tornillo de cabeza hueca M3x40mm	buscar reemplazo y modificar tanto el soporte del tubo como los agujeros del lado guia
+M3 hex nut	13	tuerca hexagonal M3	
+M5 hex nut	5	tuerca hexagonal M5	
+M5 threaded rod	0.2 m	Varilla roscada M5	
+6mm A2 tool steel	0.4 m	Varilla acero lisa 6mm	Varilla de acero lisa 8mm
